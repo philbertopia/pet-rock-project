@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.pet {
+  background-color: rosybrown;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.poop {
+  /* background-color: burlywood; */
+  width: 66px;
+  height: 66px;
+}
